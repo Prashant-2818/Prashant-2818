@@ -10,15 +10,15 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panditajay73" alt="panditajay73" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panditajay73" alt="panditajay73" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashant-2818" alt="Prashant-2818" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashant-2818" alt="Prashant-2818" /> </p>
 ---
 
 
 <!--ABOUT ME CODE-->
 🌱 **About Myself**<br> 
 
-✔️ I am **Ajay Pandey**, currently pursuing my bachelors from **KIET Group of Institutions, Ghaziabad** in **Information Technology**. <br>
+✔️ I am **Prashant Priyadarshi**, currently pursuing my bachelors from **KIET Group of Institutions, Ghaziabad** in **Information Technology**. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
@@ -28,7 +28,7 @@
  
  ✔️ I have experience in **Java Technology** .<br>
  
- ✔️ I have experience in **PHP Technology** .<br>
+ ✔️ I have experience in **Mchine Learning** .<br>
 
 <br>
 
@@ -36,16 +36,16 @@
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
-[![Gmail Badge](https://img.shields.io/badge/-ajaypandey91700@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaypandey91700@gmail.com)](mailto:ajaypandey91700@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-3dprashant057@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3dprashant057@gmail.com)](mailto:3dprashant057@gmail.com)
 
 ---
 
 <!--CONNECT WITH ME-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ajay-pandey-82045319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panditajay73" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prashant-priyadarshi-984b68222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-2818" height="30" width="40" /></a>
 <!---->
-<a href="https://www.hackerrank.com/ajaypandey000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panditajay73" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prashant_2024me2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prashant2818" height="30" width="40" /></a>
 <!---->
 
 </p>
@@ -86,33 +86,33 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditajay73&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-2818&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/panditajay73/count.svg?align=center)
-<!-- <img src="https://komarev.com/ghpvc/?username=panditajay73&label=Profile%20views&color=0e75b6&style=flat" alt="panditajay73" /> -->
+![visitors](https://profile-counter.glitch.me/Prashant-2818/count.svg?align=center)
+<!-- <img src="https://komarev.com/ghpvc/?username=Prashant-2818&label=Profile%20views&color=0e75b6&style=flat" alt="Prashant-2818" /> -->
 
 
 <!-- GITHUB STATISTICS -->
  <!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=panditajay73)   -->
  
- ![My github stats](https://github-readme-stats.vercel.app/api?username=panditajay73&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=Prashant-2818&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
 
  
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panditajay73&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-2818&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
 
   </code>
 
-![Snake animation](https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Prashant-2818/Prashant-2818/blob/main/github-contribution-grid-snake.svg)
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
