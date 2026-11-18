@@ -1,123 +1,113 @@
+<h1 align="center">👋 Hi, I'm Prashant Priyadarshi</h1>
 
+<h3 align="center">Generative AI Engineer | LLM Apps • RAG • Agentic AI</h3>
 
-<!-- README FILE CODE -->
+<p align="center">
+  I build AI applications that read documents, answer questions, and automate real work.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-priyadarshi-984b68222"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:3dprashant057@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-
-<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h1 align=center>👋 Good to have you here!!</h2>
-
-
-<h3 align="center">Software Engineer</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashant-2818" alt="Prashant-2818" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashant-2818" alt="Prashant-2818" /> </p>
----
-
-
-<!--ABOUT ME CODE-->
-🌱 **About Myself**<br> 
-
-✔️ I am **Prashant Priyadarshi**, currently pursuing my bachelors from **KIET Group of Institutions, Ghaziabad** in **Information Technology**. <br>
-
-✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
-
-✔️ I have experience in **FULL stack web development** .<br>
-
- ✔️ I have experience in **Python Technology** .<br>
- 
- ✔️ I have experience in **Java Technology** .<br>
- 
- ✔️ I have experience in **Mchine Learning** .<br>
-
-<br>
-
-
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
-
-[![Gmail Badge](https://img.shields.io/badge/-3dprashant057@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3dprashant057@gmail.com)](mailto:3dprashant057@gmail.com)
-
----
-
-<!--CONNECT WITH ME-->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prashant-priyadarshi-984b68222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-2818" height="30" width="40" /></a>
-<!---->
-<a href="https://www.hackerrank.com/prashant_2024me2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prashant2818" height="30" width="40" /></a>
-<!---->
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashant-2818&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-<!--LANGUAGES AND TOOLS-->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<!----> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<!----> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<!----> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!----> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<!---->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<!----> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<!---->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <!---->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+## 🚀 About Me
 
- <!---->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
- </p>
- 
- 
----
+I'm a **Generative AI Engineer at Ethara AI (Gurugram)**, where I build LLM-powered chatbots, RAG pipelines, and multi-step AI agent workflows.
 
-<!-- STATISTICS ABOUT PROFILE -->
+My path into AI was a little different. I started with a **Diploma in Mechanical Engineering**, moved into **B.Tech in Information Technology**, and then worked in **full-stack development** and **technical support** before focusing on Generative AI. That mix helps me think about the whole system, not just the model.
 
- 📶 Stats:<br><br>
- 
- 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-2818&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
- 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/Prashant-2818/count.svg?align=center)
-<!-- <img src="https://komarev.com/ghpvc/?username=Prashant-2818&label=Profile%20views&color=0e75b6&style=flat" alt="Prashant-2818" /> -->
-
-
-<!-- GITHUB STATISTICS -->
- <!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=panditajay73)   -->
- 
- ![My github stats](https://github-readme-stats.vercel.app/api?username=Prashant-2818&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
-
- 
- <hr>
- 
-<!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-2818&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
-         
+- 🤖 Building LLM apps with **LangChain** and **LangGraph**
+- 📚 Creating **RAG systems** with source citations
+- 🧪 Evaluating LLM outputs for accuracy, relevance, and hallucinations
+- 🔧 Improving prompts and workflows to make AI responses more reliable
 
 ---
 
-  </code>
+## 🛠️ Tech Stack
 
-![Snake animation](https://github.com/Prashant-2818/Prashant-2818/blob/main/github-contribution-grid-snake.svg)
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**Generative AI:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+**Vector Search:** ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+
+**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Core Concepts:** Prompt Engineering • RAG • AI Agents • Agentic AI • Tool Calling • Multi-Agent Workflows • Structured Outputs • LLM Evaluation • Hallucination Detection • Model Comparison • Semantic Search
+
+---
+
+## 📌 Featured Projects
+
+### 🧑‍💼 Enterprise Talent Intelligence Assistant
+`Python` `LangGraph` `RAG` `AI Agents` `OpenAI API`
+
+An AI recruitment assistant that analyzes candidate resumes, extracts skills and experience, finds skill gaps, and generates personalized interview questions. It uses RAG-based retrieval and multi-step agent workflows for candidate-job matching and suitability analysis.
+
+### 📄 AI Contract and Compliance Intelligence System
+`Python` `LangChain` `RAG` `Vector Databases` `LLMs`
+
+A contract analysis system that processes PDF and document-based contracts and extracts key clauses, obligations, compliance requirements, and potential risks. An end-to-end RAG pipeline powers the contextual summaries and compliance analysis.
+
+### 💬 AI-Powered ERP Support Assistant
+`Python` `LangChain` `LLM APIs`
+
+Built at Aminrup Technologies. A natural-language assistant that helps ERP users find business information, navigate workflows, and resolve queries without searching through long manuals.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Generative AI Engineer** | Ethara AI, Gurugram | Apr 2026 – Present |
+| **Project Engineer** | Wipro, Pune | Sep 2025 – Apr 2026 |
+| **Full-Stack Developer** | Aminrup Technologies, Jamshedpur | Jul 2024 – Aug 2025 |
+
+---
+
+## 🎓 Education & Certification
+
+- 🎓 **B.Tech in Information Technology**, KIET Group of Institutions (CGPA: 8.0)
+- 🎓 **Diploma in Mechanical Engineering**, Indo Danish Tool Room (82%)
+- ☁️ **AWS Certified Cloud Practitioner**, Amazon Web Services
+
+---
+
+## 🏆 Achievements
+
+- 🥈 2nd place in National Shakespeare Play among 50+ competing teams
+- 🏏 Vice-Captain, College Cricket Team
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashant-2818&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-2818&theme=dark&layout=compact" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-2818&theme=nightowl" alt="GitHub streak" />
+</p>
 
+---
 
+## 🤝 Let's Connect
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+I'm always open to conversations about **LLM applications, RAG, and AI agents**. If you are hiring or want to collaborate, feel free to reach out.
+
+📧 **3dprashant057@gmail.com**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
